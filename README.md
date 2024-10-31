@@ -1,1 +1,0 @@
-# prototype-recycling-management-app
